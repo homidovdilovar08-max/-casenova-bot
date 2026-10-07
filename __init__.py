@@ -1,0 +1,1 @@
+"""Проект Telegram-бота CaseNova."""
